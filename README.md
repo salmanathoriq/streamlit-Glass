@@ -6,11 +6,11 @@ hingga deployment sederhana menggunakan model yang telah disimpan.
 
 # Library yang Digunakan
 
-> pandas, numpy: Untuk manipulasi data
-> matplotlib, seaborn: Untuk visualisasi
-> sklearn: Untuk preprocessing data, pelatihan model, evaluasi, dan pencarian hyperparameter
-> streamlit: Untuk pembuatan antarmuka interaktif (belum diimplementasikan penuh dalam kode)
-> pickle: Untuk menyimpan model
+1. pandas, numpy: Untuk manipulasi data
+2. matplotlib, seaborn: Untuk visualisasi
+3. sklearn: Untuk preprocessing data, pelatihan model, evaluasi, dan pencarian hyperparameter
+4. streamlit: Untuk pembuatan antarmuka interaktif (belum diimplementasikan penuh dalam kode)
+5. pickle: Untuk menyimpan model
 
 # Data
 
