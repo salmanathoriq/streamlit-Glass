@@ -1,5 +1,9 @@
 # Glass Classification Project
 
+![image](https://github.com/user-attachments/assets/f0e52357-37f5-4873-a3d2-aabf88c59f50)
+
+Link StreamlitShare: https://app-glass-iunua7wyu3jwl47xxscqfx.streamlit.app/
+
 Proyek ini bertujuan untuk melakukan klasifikasi jenis kaca berdasarkan komposisi kimianya.
 dilakukan mulai dari eksplorasi data, preprocessing, pelatihan model machine learning,
 hingga deployment sederhana menggunakan model yang telah disimpan.
