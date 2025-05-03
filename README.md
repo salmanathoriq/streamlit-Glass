@@ -42,6 +42,48 @@ EDA mencakup:
 4. Distribusi label Type menggunakan countplot
 5. Analisis multivariat menggunakan pairplot
 
+![image](https://github.com/user-attachments/assets/e6526627-5539-4bc1-9604-9050590eacaa)
+
+![image](https://github.com/user-attachments/assets/d12d4e25-f1d2-499d-bce7-ebc5bf6de751)
+
+![image](https://github.com/user-attachments/assets/c41b8f20-fcce-4a1f-bc10-93c055eab89a)
+
+![image](https://github.com/user-attachments/assets/236087a6-5689-4069-b1e2-37760f8c0cb2)
+
+
+
 # Preprocessing
+
+1. Transformasi fitur menggunakan Yeo-Johnson PowerTransformer
+2. Pembagian data: 80% untuk pelatihan, 20% untuk pengujian
+3. Standardisasi fitur menggunakan StandardScaler
+
+![image](https://github.com/user-attachments/assets/61e97fbf-4fa6-48f9-87cc-57de9b35f2a9)
+
+![image](https://github.com/user-attachments/assets/44b9fe67-c4f3-4978-9568-1fd411980eed)
+
+![image](https://github.com/user-attachments/assets/631b6941-1a39-4f88-8862-860ea83ca2db)
+
+# Modeling
+
+1. K-Nearest Neighbors (KNN)
+   > Evaluasi menggunakan confusion matrix, accuracy, precision, dan classification report
+   > Pencarian hyperparameter terbaik menggunakan GridSearchCV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
