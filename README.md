@@ -15,16 +15,22 @@ hingga deployment sederhana menggunakan model yang telah disimpan.
 # Data
 
 Dataset berasal dari file glass.csv yang memuat fitur kimia dari kaca seperti:
-> RI (Refractive Index)
-> Na, Mg, Al, Si, K, Ca, Ba, Fe (Komposisi kimia)
-> Type (Label klasifikasi)
+1. RI (Refractive Index)
+2. Na, Mg, Al, Si, K, Ca, Ba, Fe (Komposisi kimia)
+3. Type (Label klasifikasi)
+
+![image](https://github.com/user-attachments/assets/f5386567-7347-4674-8dfb-bca5833f673e)
+
 
 #  Exploratory Data Analysis (EDA)
 
 EDA mencakup:
-> Pemeriksaan struktur dan ringkasan data (info, describe, isnull)
-> Visualisasi korelasi antar fitur
-> Distribusi nilai fitur menggunakan histogram dan boxplot
-> Distribusi label Type menggunakan countplot
-> Analisis multivariat menggunakan pairplot
+1. Pemeriksaan struktur dan ringkasan data (info, describe, isnull)
+2. Visualisasi korelasi antar fitur
+3. Distribusi nilai fitur menggunakan histogram dan boxplot
+4. Distribusi label Type menggunakan countplot
+5. Analisis multivariat menggunakan pairplot
+
+# Preprocessing
+
 
