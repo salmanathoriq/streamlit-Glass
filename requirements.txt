@@ -1,0 +1,10 @@
+numpy
+panday
+seaborn
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.linear_model
+sklearn.neighbors
+sklearn.metrics
+matplotlib==3.9.2
+streamlit==1.37.1
