@@ -67,9 +67,11 @@ EDA mencakup:
 # Modeling
 
 1. K-Nearest Neighbors (KNN)
-   > Evaluasi menggunakan confusion matrix, accuracy, precision, dan classification report
-   > Pencarian hyperparameter terbaik menggunakan GridSearchCV
-
+   - Evaluasi menggunakan confusion matrix, accuracy, precision, dan classification report
+   - Pencarian hyperparameter terbaik menggunakan GridSearchCV
+2. Linear Regression
+   - Digunakan untuk prediksi sederhana dan sebagai baseline
+   - Evaluasi dengan score pada data uji
 
 
 
